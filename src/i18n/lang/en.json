@@ -1,0 +1,237 @@
+{
+  "common": {
+    "title": "Smart Cloud",
+    "sysConf": "System Configuration",
+    "langSet": "Language Setting",
+    "tenantSet": "Tenant Setting",
+    "search": "Search",
+    "reset": "Reset",
+    "detail": "Detail",
+    "quit": "Quit",
+    "advancedSearch": "Advanced Search",
+    "resetPassword": "Reset Password",
+    "state": "State",
+    "enable": "Enable",
+    "disable": "Disable",
+    "batchDeletion": "Batch Deletion",
+    "add": "Add",
+    "refresh": "Refresh",
+    "operate": "Operate",
+    "modify": "Modify",
+    "delete": "Delete",
+    "haveChosen": "Has Been Selected",
+    "row": "Rows",
+    "tip": "Tip:",
+    "tippp": "Required Items.",
+    "next": "Next",
+    "back": "Back",
+    "ok": "Ok",
+    "sure": "Sure",
+    "complete": "Complete",
+    "cancel": "Cancel",
+    "delTip": "Are you sure you want to delete?",
+    "exportTip": "Are you sure you want to export?",
+    "restPassTip": "Are you sure you want to reset the password to 123456?",
+    "promptTitle": "Tip",
+    "successTip": "Successful Operation",
+    "containttip1": "Are you sure you want to",
+    "asked": "?",
+    "quitTip": "Are you sure you want to quit?",
+    "inputTip": "Can Not Be Empty",
+    "orderNum": "Sort",
+    "longitudeGaode": "Longitude",
+    "latitudeGaode": "Latitude",
+    "longitude": "Longitude",
+    "inputLongitude": "Longitude(Amap)",
+    "latitude": "Latitude",
+    "inputLatitude": "Latitude(Amap)",
+    "mapInfo": "Get From Map",
+    "getMapTitle": "Get Coordinates",
+    "parentName": "Superior",
+    "remark": "Remark",
+    "language": "Language",
+    "translate": "Translate",
+    "save": "Save",
+    "close": "Close",
+    "import": "Import",
+    "export": "Export",
+    "fieldSelection": "Field Selection",
+    "downloadTemplate": "Download Template",
+    "clickUpload": "Upload File",
+    "columnNames": "Column Names",
+    "example": "Example",
+    "explain": "Explain",
+    "more": "More",
+    "generate": "Generate",
+    "alloc": "Alloc",
+    "activate": "Activate",
+    "lost": "Lost",
+    "destroy": "Destroy",
+    "no": "No",
+    "errorReason": "Error Reason",
+    "addFailureList": "Add failure list",
+    "activateFailureList": "Activation failure list",
+    "copy": "Copy",
+    "sureDelete": "Do you make sure to delete",
+    "yes": "Yes",
+    "not": "No",
+    "delay": "Delay",
+    "examine": "Examine",
+    "batchPause": "Batch Pause",
+    "batchResume": "Batch Resume",
+    "batchRun": "Batch Run",
+    "logList": "Log List",
+    "normal": "Normal",
+    "pause": "Pause",
+    "resume": "Resume",
+    "run": "run",
+    "adjust": "Adjust",
+    "checkPending": "Check Pending",
+    "auditPass": "Audit Pass",
+    "effective": "Effective",
+    "failure": "Failure",
+    "invalid": "Invalid",
+    "reject": "Reject",
+    "auditing": "Auditing"
+  },
+  "menu": {
+    "home": "Home",
+    "map": "Map",
+    "column": {
+      "menuName": "Menu Name",
+      "superiorMenu": "Superior Menu",
+      "icon": "Icon",
+      "type": "Type",
+      "directory": "Directory",
+      "menu": "Menu",
+      "button": "Button",
+      "menuURL": "MenuURL",
+      "authorizationID": "Authorization ID",
+      "languages": "Languages"
+    }
+  },
+  "dept": {
+    "column": {
+      "deptName": "Name",
+      "shortName": "Short Name",
+      "code": "Code"
+    },
+    "modal": {
+      "title": "Department Info",
+      "lableTenant": "Tenant",
+      "inputLevelTip": "The mechanism level is 1 at the top level and 2 at the second level, and so on. Can not be empty."
+    }
+  },
+  "area": {
+    "column": {
+      "areaName": "Name",
+      "areaCode": "Code"
+    },
+    "modal": {
+      "superiorArea": "Superior Area",
+      "title": "Area Information"
+    }
+  },
+  "user": {
+    "column": {
+      "personnelName": "Name",
+      "personnelAccount": "Account",
+      "jobType": "Job Type",
+      "sex": "Sex",
+      "tel": "Telephone",
+      "deptName": "Department",
+      "roleName": "Role",
+      "incumbency": "Incumbency",
+      "usability": "Usability",
+      "identityNo": "ID Number",
+      "birthdate": "Birthdate",
+      "address": "Address",
+      "entryDate": "Entry Date",
+      "account": "Account",
+      "role": "Role",
+      "tenantAllocation": "Tenant",
+      "roadAssignment": "Road"
+    },
+    "modal": {
+      "title1": "Basic Information",
+      "title2": "Responsibilities",
+      "title3": "Login Information",
+      "title4": "Permission assignment",
+      "password": "Password",
+      "confirm": "Confirm",
+      "confirmPassword": "Confirm!Length:6 to 20"
+    }
+  },
+  "dict": {
+    "column": {
+      "dictName": "Name",
+      "dictType": "Type",
+      "value": "Value",
+      "meaning": "Meaning",
+      "tenant": "Tenant",
+      "items": "Items",
+      "currency": "Currency"
+    },
+    "modal": {
+      "title": "Dictionary Information",
+      "inputCommonTip": "0. non-universal; 1. universal"
+    }
+  },
+  "role": {
+    "column": {
+      "roleName": "Name",
+      "creationTime": "Creation Time"
+    },
+    "modal": {
+      "title": "Role Information",
+      "tenant": "Tenant",
+      "menuAuthorization": "Menu Authorization"
+    }
+  },
+  "config": {
+    "column": {
+      "configName": "Name",
+      "configType": "Type",
+      "tenant": "Tenant",
+      "configValue": "Value",
+      "currency": "Currency"
+    },
+    "modal": {
+      "title": "Config Information"
+    }
+  },
+  "log": {
+    "column": {
+      "userNameOrOperate": "User Name Or Operate",
+      "userName": "User Name",
+      "requestMethod": "Request Method",
+      "requestParameters": "Request Parameters",
+      "lengthOfExecution": "Execution Time",
+      "requestAddress": "Request Address",
+      "requestTime": "Request Time"
+    }
+  },
+  "login": {
+    "platformName": "Garbage Cloud",
+    "text1": "Garbage Intelligent Rransformation Expert",
+    "text2": "Provide search for Garbage spaces, reserved Garbage spaces, automatic payment, reverse car search, etc.",
+    "text3": "One-stop Garbage function service",
+    "text4": "Technology leads the new wave - Intelligent Huili lights up city life",
+    "logintitle": "Account Login",
+    "userName": "Username",
+    "pwd": "Password",
+    "loginbtn": "Login",
+    "copyright": "Copyright © 2018 ZHIYUAN IoT",
+    "copyrighticp": "",
+    "copyrightgongan": ""
+  },
+  "schedule": {
+    "column": {
+      "beanName": "Bean Name",
+      "methodName": "Method Name",
+      "cronExpressions": "Cron Expressions",
+      "scheduleStatus": "Status",
+      "parameter": "Parameter"
+    }
+  }
+}
